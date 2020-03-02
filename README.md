@@ -1,3 +1,4 @@
+# Cinema-web-project
 - About: This is the final project of the "Cinema" team, designing a movie ticket booking website, using mock REST API with json-server
 - Apply Technical:
     + React redux
